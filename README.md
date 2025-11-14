@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor em formação com foco em **Análise e Engenharia de Dados**.  
+Sou um desenvolvedor com foco em **Análise e Engenharia de Dados**.  
 Tenho experiência prática em **Python**, **SQL**, **Power BI** e **bibliotecas de análise de dados**, além de aplicar **metodologias ágeis (Scrum e Git)** no dia a dia.
 
 Busco oportunidades como **Analista, Cientista ou Engenheiro de Dados**, aplicando programação, estatística e aprendizado de máquina para apoiar a tomada de decisão e gerar impacto positivo.
