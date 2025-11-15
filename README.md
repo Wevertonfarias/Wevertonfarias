@@ -1,5 +1,5 @@
 <!-- Banner ou saudação -->
-<h1 align="center">👋 Olá, eu sou o Weverton Farias!</h1>
+<h1 align="center">👋 Olá, eu sou Weverton Farias!</h1>
 
 <p align="center">
 🎓 Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> <br/>
@@ -95,5 +95,5 @@ Aprendizado voltado para desenvolvimento de software, modelagem de dados e intel
 ---
 
 ⭐ **Obrigado por visitar meu perfil!**  
-Fique à vontade para explorar meus projetos — e se quiser trocar ideias sobre tecnologia, dados ou automação, será um prazer conversar.  
+Fique à vontade para explorar meus projetos — e se quiser trocar ideias sobre tecnologia e dados será um prazer conversar.  
 > Vamos transformar dados em impacto real! 🚀
